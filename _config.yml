@@ -42,11 +42,10 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "FF0000"
+navbar-col: "#FF0000"
 navbar-text-col: "#00FF00"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#FF0000"
 page-col: "#FFFFFF"
-page-text-col: "00FF00"
 link-col: "#008AFF"
 hover-col: "00FF00"
 footer-col: "#F5F5F5"
@@ -57,7 +56,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/img/armyknifeBROKK.jpg" 
-# footer-img: "/img/bgimage.png"
+#footer-img: "/img/bgimage.png"
 #page-img: "/img/white-dragon-wallpaper-widescreen-8.jpg"
 
 # --- Footer options --- #
