@@ -10,7 +10,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
-  position: relative;
+  position: centre;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
