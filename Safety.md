@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Safety & Services
-image: /img/PPE.jpg
 ---
 
 ## Our Safety product range & services includes:
@@ -10,3 +9,4 @@ image: /img/PPE.jpg
 * **Prints** ~ Business cards, Flyers, Posters, Flags, Labels, Stickers & Information posters.
 * **Advertising** ~ PVC Banners, Pull-up Banners, Tear Drops, Shark Fins, Corex Boards, Billboards etc.
 * **Safety Equipment** ~ PPE Safety Shoes, Fire Equipment, Arc Protection, Fall Arrest Harnesses & Belts, Protective Clothing, Spillage Kits, Security Equipment, Riot Equipment, Safety Signs
+image: /img/PPE.jpg
