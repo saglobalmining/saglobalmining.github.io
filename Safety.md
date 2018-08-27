@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Safety & Services
+image: /img/PPE.jpg
 ---
 
 ## Our Safety product range & services includes:
