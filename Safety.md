@@ -9,4 +9,4 @@ title: Safety & Services
 * **Prints** ~ Business cards, Flyers, Posters, Flags, Labels, Stickers & Information posters.
 * **Advertising** ~ PVC Banners, Pull-up Banners, Tear Drops, Shark Fins, Corex Boards, Billboards etc.
 * **Safety Equipment** ~ PPE Safety Shoes, Fire Equipment, Arc Protection, Fall Arrest Harnesses & Belts, Protective Clothing, Spillage Kits, Security Equipment, Riot Equipment, Safety Signs
-![PPE}(/img/PPE.jpg)
+![PPE}(https://github.com/saglobalmining/saglobalmining.github.io/blob/master/img/PPE.jpg)
