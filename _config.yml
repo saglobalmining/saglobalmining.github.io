@@ -24,7 +24,7 @@ description: A virtual proof that SA Global Mining is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
-  Services: 
+#  Services: 
   Products:
     - Safety & Services: "Safety"
     - Trackless Support: "http://deanattali.com/beautiful-jekyll/"
