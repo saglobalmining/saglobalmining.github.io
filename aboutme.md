@@ -4,7 +4,7 @@ title: About Us
 subtitle: Read All about us
 ---
 
-# About Us
+# SA Global Mining Enterprise
 
 * SA Global Mining Enterprise is one of the most diversible and
 leading mining supplies specialists.
