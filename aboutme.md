@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Us
 subtitle: Read All about us
 ---
 
@@ -8,7 +8,13 @@ subtitle: Read All about us
 
 * SA Global Mining Enterprise is one of the most diversible and
 leading mining supplies specialists.
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* We have a dedicated team in the manufacturing and supply of all
+mining and Industrial equipment , servicing, repairs and
+maintenance.
+* We don’t just supply but also Design, SA Global Mining Enterprise
+has its own Designing & printing department off SA’s top Graphic
+Designing Team Focusing on all Safety related signage, branding and
+labelling regarding mining and industrial sectors.
+* CEO: Ricardo Swartz
+* Managing Director: Phillip Pieterse
+* Office Controller: Gertda Harmse
